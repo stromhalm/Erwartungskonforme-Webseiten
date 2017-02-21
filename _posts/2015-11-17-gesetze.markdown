@@ -1,0 +1,67 @@
+---
+layout: post
+title: "Gesetze"
+subtitle: "Bei der Erstellung einer Webseite gibt es Gesetze, deren Einhaltung verpflichtend ist"
+category: konventionen
+author: Jörn Jürgens
+---
+
+Bei der Erstellung einer Website, gerade wenn diese öffentlich zugänglich ist, gibt es Gesetze, die Eingehalten werden müssen. In diesem Kapitel werden die Impressumspflicht und die grundsätzlichen Gesetze des BITV behandelt.
+
+<!--more-->
+
+###Impressumspflicht
+Die Impressumspflicht, welche 1997 in Kraft getreten ist, dient in erster Linie dem Verbraucherschutz, aber auch Konkurrenten oder Kunden, die sich über den Anbieter einer Internetseite informieren oder gerichtlich gegen diesen vorgehen wollen.<sup>3</sup> Dieses Gesetz besagt, dass ein Impressum zur Anbieterkennzeichnung geführt werden muss, welches unmittelbar von der Internetseite erreichbar sein muss.<sup>2</sup>
+
+##Inhalt des Impressums
+In dem Impressum muss der Name, die Anschrift und eine Möglichkeit zur schnellen Kontaktaufnahme, beispielsweise per E-Mail aufgeführt werden. Außerdem muss ein zweiter Kommunikationsweg eröffnet werden, was zum Beispiel die Telefonnummer sein kann. Als zweiter Kommunikationsweg reicht aber auch eine automatisierte Kontaktaufnahme, zum Beispiel durch eine elektronische Anfragemaske.<sup>2</sup>
+
+Ist der Anbieter in einem Register wie dem Handels- oder Vereinsregister eingetragen, muss auch diese Registernummer im Impressum aufgeführt werden. Des Weiteren müssen Inhaber, deren Betrieb von Aufsichtsbehörden überwacht wird (etwa Spielhallenbetreiber), Angaben zur zuständigen Aufsichtsbehörde machen, damit der Benutzer die Möglichkeit hat dort Beschwerde einzureichen.<sup>2</sup>
+
+##Geltungsbereich
+Grundsätzlich sollte jede Internetseite ein Impressum führen. Es gibt allerdings Ausnahmen, wenn die Internetseite zum Beispiel ausschließlich persönlichen Zwecken dient. Kein Impressum muss geführt werden, wenn:<sup>2</sup>
+
++ Inhalte Passwortgeschützt sind
++ Inhalte aus dem engsten Lebensbereich nur für den Ersteller selbst existieren
+
+Ein Impressum ist also verpflichtend für alle geschäftsmäßigen und öffentlichen Internetseiten.
+
+----------------------------------
+
+<br>
+
+###[BITV]
+Die Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Behindertengleichstellungsgesetz vom 12.09.2011 sorgt dafür, dass behinderte Menschen bei der Benutzung von Internetseiten nicht benachteiligt werden. Hierbei wird ein gesetzlicher Geltungsbereich ebenso wie anzuwendende Standards definiert, nach denen gehandelt werden kann. Die Verordnung wird regelmäßig unter Berücksichtigung des technischen Fortschritts überprüft und gegebenenfalls überarbeitet und angepasst.<sup>1</sup>
+
+<br>
+
+## Geltungsbereich
+Die Verordnung gilt für Behörden der Bundesverwaltung und deren Internetauftritte und -angebote, sowie grafische Programmoberflächen, die öffentlich zugänglich sind.<sup>1</sup>
+
+<br>
+
+## Handlungsbereich
+Die Internetauftritte und Angebote müssen so gestaltet sein, dass behinderte Menschen im Sinne des §3 des Behindertengleichstellungsgesetzes<sup>4</sup>, die Internetseite benutzen können. Da diese Menschen ohne weiteres die Informationstechnik nicht benutzen können, muss ihnen also eine Möglichkeit gegeben werden, die Benutzung zugänglich zu machen.<sup>1</sup>
+
+<br>
+
+## Anzuwendende Standards
+Die Informationen müssen so dargestellt werden, dass sie vom Benutzer wahrgenommen werden können und auch die Komponenten der Schnittstellen müssen dahingehend angepasst werden. Außerdem muss die Startseite des Internetangebots Informationen zum Inhalt und der Navigation geben, welche in Gebärdensprache und leichter Sprache zu schreiben sind.<sup>1</sup>
+
+<br>
+
+
+<hr id="sources">
+
+<small>
+    <sup>1</sup> [Gesetzesauszug BITV](http://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html). Abgerufen: 24.11.2015.
+</small><br>
+<small>
+    <sup>2</sup> [Impressumspflicht - Anleitung](http://www.linksandlaw.info/hinweisezuranbieterkennzeichnung.htm). Abgerufen: 24.11.2015.
+</small><br>
+<small>
+    <sup>3</sup> [Impressumspflicht - Hinweise](http://www.linksandlaw.info/Impressumspflicht-Notwendige-Angaben.html). Abgerufen: 24.11.2015.
+</small><br>
+<small>
+    <sup>4</sup> [Behindertengleichstellungsgesetz §3](http://www.buzer.de/gesetz/1961/a27514.htm). Abgerufen: 24.11.2015.
+</small><br>

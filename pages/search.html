@@ -1,0 +1,35 @@
+---
+layout: post
+title: Suche
+subtitle: Diese Webseite durchsuchen
+permalink: /suche/
+---
+
+<h2>Interaktive Suche</h2>
+Mit der Suchfunktion können alle Beiträge und Seiten dieser Webseite in Echtzeit durchsucht werden.
+
+<div id="search-container">
+   <div id="custom-search-input">
+      <div class="input-group">
+        <input type="text" id="search-input" class="search-query form-control" placeholder="Suche" />
+        <span class="input-group-btn">
+            <button class="btn btn-danger" type="button">
+                <span class="glyphicon glyphicon-search"></span>
+            </button>
+        </span>
+      </div>
+   </div>
+   <ul id="results-container">
+   </ul>
+</div>
+
+<!-- Script pointing to jekyll-search.js -->
+<script src="{{ site.baseurl }}/bower_components/simple-jekyll-search/dest/jekyll-search.js" type="text/javascript"></script>
+<script type="text/javascript">
+    SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        noResultsText: 'Es wurden keine Ergebnisse gefunden.'
+    });
+</script>

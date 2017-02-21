@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Grundsätze der Dialoggestaltung"
+subtitle: "EU Norm - EN ISO 9241-110"
+category: konventionen
+author: Jörn Jürgens
+---
+
+Internetseiten können, ebenso wie Software, ergonome Grundsätze der Dialoggestaltung einhalten, die in der sogenannten Bildschirmarbeitsverordnung
+festgeschrieben sind.<sup>1</sup>
+
+<!--more-->
+
+Bei diesen Leitlinien geht es um die Interaktion zwischen Mensch und Computer und wie diese zu mehr Konsistenz und Gebrauchstauglichkeit geführt werden können. Im deutschsprachigen Raum ist die Norm DIN EN ISO 9241-110 gültig, welche sich aus folgenden Grundsätzen zusammensetzt:<sup>2</sup>
+
+### Aufgabenangemessen
+Die Dialogwege zwischen Fenstern, Webpages und Internetseiten und die auf diesen dargestellten Informationen, sollten angemessen sein und somit die Arbeitsschritte zur Erledigung einer Arbeitsaufgabe genau abbilden.<sup>1</sup>
+
+Damit ist gemeint, dass der Benutzer bei einer Aufgabe, die er sich selbst stellt, genauen Schritten folgen kann um diese zu erfüllen. Dies kann zum Beispiel der Bestellvorgang auf einer Seite sein, bei dem der Benutzer über den Warenkorb, bis hin zum Bezahlvorgang, durch die komplette Bestellung geleitet wird.
+
+### Selbstbeschreibend
+Alle Texte, Labels, Buttons, Meldungen und weitere Bestandteile der Internetseite sollten auf Anhieb verständlich sein. Diese Bestandteile sollten sich selbst so gut beschreiben, damit der Benutzer dieser Internetseite direkt weiß, was passiert wenn er diese benutzt, beziehungsweise wenn diese auftauchen.<sup>1</sup>
+
+### Steuerbar
+Die Dialogwege auf der Internetseite, über Schaltflächen, Menüeinträge und Icons, sollten den Benutzer einfach und vor allem flexibel zum Ziel seiner Aufgabe führen. Dabei sollten Arbeitsschritte rückgängig und Menüeinträge aufgehoben werden können.<sup>1</sup>
+
+Der Benutzer soll zum Beispiel beim Ausfüllen eines Bestellformulares am Ende nochmals seine Anschrift überprüfen und ändern können und zwischen den Arbeitsschritten, bis hin zur endgültigen Bestellung, ohne Weiteres wechseln können. Dabei soll der Benutzer auch selbst bestimmen können, wann und ob er einen Schritt weiter in der Arbeitsreihenfolge machen möchte.
+
+### Erwartungskonform
+Bedienungsabläufe, Symbole und die Anordnung der Informationen auf der Internetseite sollten innerhalb dieser konsistent sein und für den Benutzer dem gewohnten Muster einer Internetseite entsprechen.<sup>1</sup>
+
+Der Benutzer soll also beim erstmaligen Benutzen der Internetseite, alleine durch seine Erfahrungswerte wissen, wo er zum Beispiel die Suche findet oder wie er sich im Allgemeinen auf dieser Internetseite zurecht findet und sich durch diese navigieren kann.
+
+### Fehlertolerant
+In allen Situationen, insbesondere bei einer Arbeitsaufgabe, soll die Internetseite weitestgehend dabei helfen Fehler zu vermeiden und dem Benutzer im Nachhinein Möglichkeiten zur Kontrolle und zur Korrektur geben.<sup>1</sup>
+
+So soll zum Beispiel bei einem Bestellformular darauf geachtet werden, dass beim Geburtsdatum gar nicht erst Buchstaben eingetragen werden können und falls doch etwas falsch gemacht wird, soll der Benutzer vor der Bestellbestätigung erneut alle Angaben kontrollieren und korrigieren können.
+
+### Individualisierbar
+Fenstereinstellungen, Spaltenanordnungen in Listen, Menüs und Weiteres sollte vom Benutzer selbst einstellbar und somit individualisierbar sein.<sup>1</sup>
+Ein Beispiel hierfür ist, dass der Benutzer sein Profil auf einer Internetseite durch ein eigenes Foto und eine eigene Signatur selbst einstellen kann. Außerdem sollte er Suchergebnisse filtern und die Reihenfolgen ändern können.
+
+<br>
+
+### Lernförderlich
+Alle Bedienschritte, Tastenkürzel, Menüeinträge, Funktionen und Fundorte der Informationen sollten für jede Webseite einem gleichen, schnell zu erlernbaren Prinzip folgen, damit sich der Benutzer nach dem erstmaligen Betreten der Seite auf den Folgeseiten schnell koordinieren kann.<sup>1</sup>
+
+
+<hr id="sources">
+
+<small>
+    <sup>1</sup> [Grundsätze der Dialoggestaltung - Zusammensetzung](http://www.ergo-online.de/site.aspx?url=html/software/grundlagen_der_software_ergon/grundsaetze_der_dialoggestalt.htm). Abgerufen: 24.11.2015.
+</small><br>
+<small>
+    <sup>2</sup> [Grundsätze der Dialoggestaltung - Definition](http://wiki.infowiss.net/Grundsätze_der_Dialoggestaltung). Abgerufen: 24.11.2015.
+</small><br>

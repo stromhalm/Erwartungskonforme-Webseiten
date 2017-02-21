@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include head.html %}
+
+<body id="page-top">
+
+{% include nav.html %}
+{% include small-header.html %}
+
+<main class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			{% for post in site.categories[page.category] %}
+			<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+			{{ post.excerpt }} <a class="btn btn-primary" href="{{site.baseurl}}{{ post.url }}">Weiterlesen</a>
+			{% if forloop.last == false %}
+			<hr class="post-divide">
+			{% endif %}
+			{% endfor %}
+
+			{% capture difference %} {{ site.categories[page.category] | size | minus:1 }} {% endcapture %}
+			{% if difference contains '-' %}
+			<center>
+				<i>Noch keine Beiträge in dieser Kategorie</i>
+			</center>
+			{% endif %}
+		</div>
+	</div>
+</main>
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+
+</html>

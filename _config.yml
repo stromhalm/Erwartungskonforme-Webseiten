@@ -1,0 +1,63 @@
+# Site settings
+title: Erwartungskonforme Webseiten
+email: iug15-ew@informatik.uni-oldenburg.de
+description: Erwartungskonforme Webseiten im Modul informatik und Gesellschaft an der Uni Oldenburg
+baseurl: "/~iug15/ew" # the subpath of your site, e.g. /blog/
+url: "http://www.informatik.uni-oldenburg.de" # the base hostname & protocol for your site
+excerpt_separator: <!--more-->
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+permalink: /:categories/:title/
+
+members:
+   -
+      name: Stephan A.
+      role: Autor
+      image: stephan_a.jpg
+   -
+      name: Martin B.
+      role: Webbeauftragter
+      image: martin_b.jpg
+   -
+      name: Florian D.
+      role: Qualitätsprüfer
+      image: florian_d.jpg
+   -
+      name: Jan H.
+      role: Autor
+      image: jan_h.jpg
+   -
+      name: Dario I.
+      role: Außenminister
+      image: dario_i.jpg
+   -
+      name: Adrian J.
+      role: Webbeauftragter
+      image: adrian_j.jpg
+   -
+      name: Jörn J.
+      role: Autor
+      image: joern_j.jpg
+   -
+      name: Hendrik K.
+      role: Autor, Qualitätsprüfer
+      image: hendrik_k.jpg
+   -
+      name: Lennart K.
+      role: Autor
+      image: lennart_k.jpg
+   -
+      name: Wenke N.
+      role: Autorin
+      image: wenke_n.jpg
+   -
+      name: Jannik S.
+      role: Autor
+      image: jannik_s.jpg
+   -
+      name: Martin S.
+      role: Autor
+      image: martin_s.jpg

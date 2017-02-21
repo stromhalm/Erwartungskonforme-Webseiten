@@ -1,0 +1,38 @@
+<section id="services">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 class="section-heading">Unsere Themen</h2>
+				<hr class="primary">
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+
+			{% for category in site.pages %}
+				{% if category.layout != 'categorypage' %}
+					{% continue %}
+				{% endif %}
+
+				{% if category.title == 'Konventionen' %}
+					<div class="clearfix visible-md-block"></div>
+				{% endif %}
+
+				<div class="col-lg-3 col-md-6 text-center">
+					<div class="service-box" onclick="window.location='{{ site.baseurl }}{{ category.url }}'">
+						<i class="fa fa-4x fa-{{ category.icon }} wow bounceIn text-primary"></i>
+
+						<h3>
+							{{ category.title }}
+						</h3>
+
+						<p class="text-muted">
+							{{ category.mainpageSub }}
+						</p>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>

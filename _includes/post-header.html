@@ -1,0 +1,12 @@
+<header class="small-header post-header">
+    <div class="header-content">
+         <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <h1 class="section-heading">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+                <hr class="primary">
+                {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+                {% if page.author %}<i>Von {{ page.author }}</i>{% endif %}
+            </div>
+        </div>
+    </div>
+</header>
